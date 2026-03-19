@@ -30,7 +30,7 @@ The application is built using a serverless architecture on Azure, split into a 
 * Python 3.x installed.
 
 ### Local Development
-1. Clone the repository: `git clone https://github.com/DanielKaeseberg/cloudresume.git`
+1. Clone the repository: `git clone https://github.com/DanielKaeseberg/CloudResume.git`
 2. Navigate to the backend directory and install dependencies: `pip install -r requirements.txt`
 3. Run the Azure Function locally using Azure Functions Core Tools.
 4. Open the `index.html` file in your browser to test the frontend connection to the local API.
