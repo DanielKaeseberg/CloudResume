@@ -2,8 +2,6 @@
 
 This repository contains the source code and infrastructure configuration for my Cloud Resume Challenge. The project is a full-stack serverless application hosted on Microsoft Azure.
 
-Live Site: [Insert your URL here]
-
 ## Architecture
 
 The application is built using a serverless architecture on Azure, split into a frontend and a backend.
